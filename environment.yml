@@ -1,0 +1,11 @@
+name: wrf-solar
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - python==3.11.10
+  - climateforcing==0.3.0
+  - matplotlib
+  - numpy
+  - python-dotenv
+  - xarray
